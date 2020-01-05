@@ -1,5 +1,5 @@
 <h1 align="center">
-  Qiestion 3 - Implement a Todo list in Elm with Material Design styles
+  Question 3 - Implement a Todo list in Elm with Material Design styles
 </h1>
 
 ### Getting Started 
